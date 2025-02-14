@@ -51,6 +51,7 @@ python icegate.py
 ```
 
 ## API Usage
+## Use Postman(optional)
 ### Endpoint: `/track_sb`
 #### Method: `POST`
 
