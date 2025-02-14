@@ -20,8 +20,8 @@ Make sure you have the following installed before proceeding:
 
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/yourusername/shipping-bill-tracker.git
-cd shipping-bill-tracker
+[git clone https://github.com/yourusername/shipping-bill-tracker.git
+cd shipping-bill-tracker](https://github.com/Ahmedkola/ShipWaves.git)
 ```
 
 ### 2. Create and Activate a Virtual Environment
@@ -95,11 +95,7 @@ curl -X POST "http://127.0.0.1:5000/track_sb" -H "Content-Type: application/json
 }
 ```
 
-## Deployment (Optional)
-### Running with Gunicorn (Linux/macOS)
-```sh
-gunicorn -w 4 -b 0.0.0.0:5000 app:app
-```
+
 
 
 
