@@ -47,7 +47,7 @@ Download ChromeDriver from [ChromeDriver Download Page](https://sites.google.com
 
 ### 5. Run the Flask App
 ```sh
-python icegate.py
+python app.py
 ```
 
 ## API Usage
